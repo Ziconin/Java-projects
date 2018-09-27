@@ -1,4 +1,6 @@
-Antti Herala 
+Authors: Antti Herala & Hanna Salopaasi 
+
+### RFC Reader with Swing ###
 
 Asking user about the RFC number is made on console, where it loops until the kill command is issued.
 
@@ -13,7 +15,7 @@ but this seemed to be more logical and better (and perhaps even easier) choice.
 
 The UI-window has a search bar, where a word can be input and searched with the button.
 
-How to use:
+### How to use: ###
 
 Use is quite simple, run the getRfc.java and enter index for the RFC you want. 
 
